@@ -1,2 +1,10 @@
 # face_detection_picamera
-we use the computational power of the pc to detect face using picamera
+##/folders
+#1.computer:
+ It contains the server code to be run on the computer/pc
+
+#2. raspberrypi: 
+It contains the client code which sends video from pi camera to the pc
+
+## Note
+change the ip address with your server ip address in the file client.py
